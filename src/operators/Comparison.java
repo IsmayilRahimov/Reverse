@@ -19,5 +19,11 @@ public class Comparison {
         }
 
 
+        int age = 10;
+        System.out.println(age != 15);
+
+        System.out.println(age != 10);
+
+
     }
 }
