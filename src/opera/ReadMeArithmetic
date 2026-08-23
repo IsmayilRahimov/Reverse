@@ -1,0 +1,26 @@
+1: Arithmetic operatoru riyazi hesablamalar ucun istifade olunur:
+
++ - * / %
+
+-----------------------------------------------------------------------------------------------
+2: Assingment operatoru deyer menimsetme opeatorudur:
+
+
+= += -= /= *=
+
+-----------------------------------------------------------------------------------------------
+3: Comparison(Relational) operatoru muqayise operatorudur:
+ - Comparison operatoru deyerleri hemise muqayise edir ve true veya false qaytarir:
+
+== < > <= >= !=
+
+-----------------------------------------------------------------------------------------------
+4: Logical operatorlari bir nece serti birlesdirmek ve sertin neticesini deyisdirmek ucun istifade olunur
+
+&& || !
+
+
+
+
+
+
