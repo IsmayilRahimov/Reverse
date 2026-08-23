@@ -3,7 +3,7 @@ package ElseIFElse;
 public class CaseDay {
 
 
-    static int day = 1;
+    static int day = 11;
 
     public static void main(String[] args) {
 
@@ -17,6 +17,9 @@ public class CaseDay {
             case 3:
                 System.out.println("Cersenbe:");
                 break;
+
+            default:
+                System.out.println("Bele bir gun yoxdur:");
         }
     }
 
