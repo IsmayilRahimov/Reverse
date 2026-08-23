@@ -19,7 +19,14 @@
 
 && || !
 
+-----------------------------------------------------------------------------------------------
 
+5: Increment ve decrement operatorlari ededi 1 vahid artir:
+
+++a --a a++ a--
+Ferqi ise Pre increment Post increment nedir:
+
+Pre increment evvelce artirir : Post increment evvelce ededi istifade edir sonra artirir:
 
 
 
